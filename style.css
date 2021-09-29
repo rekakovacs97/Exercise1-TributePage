@@ -7,17 +7,12 @@ h1 {
     background-color: rgb(175, 173, 163);
     padding: 10px 10px 10px 10px;
     border-radius: 20px;
-
 }
 
 p:first-of-type, p:nth-of-type(2) {   
     text-align: center;
     text-emphasis: initial;
 }
-
-                       /* p:nth-of-type(2){
-                            text-align: center;
-                        } */
 
 p:first-of-type {
     font-weight: bold;
@@ -42,15 +37,12 @@ li:first-of-type {
 li:nth-of-type(2n):first-letter {
     color: hotpink;
 }
- /*2n minden masodik*/
 
  .highlighted-text {
      font-weight: 700;
  }
 
-
  p:last-child {
      color: blue;
      font-weight: 700;
-
  }
